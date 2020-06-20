@@ -74,3 +74,16 @@ body{
     bottom: 0px;
     z-index: 1;
 }
+
+// Assignment 4
+.modal-header{
+    background: $background-dark;
+    color: $lt-gray;
+    .close{
+        color: $lt-gray;
+    }
+}
+
+.modal-body{
+    background: $background-pale;
+}
